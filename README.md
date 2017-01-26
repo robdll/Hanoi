@@ -1,7 +1,8 @@
 Hanoi Tower
 =====
 
-Hanoi Tower Instruction Program written in Assembler using Recursion for MIPS processors.
+Hanoi Tower Instruction Assembler Recursive function script for MIPS processors.
+
 
 When you call the procedure it asks you how many disks you have to move. 
 The instruction given will tell you how to move N disks from Peg 1 to Peg 2.
